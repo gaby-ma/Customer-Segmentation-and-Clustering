@@ -11,7 +11,7 @@
      (1)	改善名留的資料可用率</BR>
      (2)	AI模型精準預測</BR>
      (3)	客群深度分析行銷Web後台</BR>
-3. 解題成果：請見下方Demo影片 (點選可開啟連結)，目前已和名留簽約中，預計先延長合作到12/31。</BR>
+3. 解題成果：請見下方Demo影片 (點選圖片可開啟連結)，目前已和名留簽約中，預計先延長合作到12/31。</BR>
 [![Watch the video](https://github.com/gaby-ma/gaby-ma.github.io/blob/fed30fd176659de034953a4f3ab65b42d276f863/www/images/456.png)](https://youtu.be/22lSCOZAOKo)
 智造奇機 Miracle AI Inc. | 設計&開發
 
